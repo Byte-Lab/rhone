@@ -1,0 +1,4 @@
+*.o
+*.a
+example_fifo
+rhone

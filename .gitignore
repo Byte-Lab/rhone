@@ -1,4 +1,6 @@
 *.o
 *.a
+*.skel.h
+*.subskel.h
 example_fifo
 rhone
